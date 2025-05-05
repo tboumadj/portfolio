@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.3f2cc8cd.css",
-    "main.js": "/portfolio/static/js/main.4459ec64.js",
+    "main.js": "/portfolio/static/js/main.19fef96d.js",
     "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
     "static/media/AB1A0764.jpg": "/portfolio/static/media/AB1A0764.3473677e01f9e119b8cf.jpg",
-    "static/media/MyCV.pdf": "/portfolio/static/media/MyCV.1e0378ee2c1277f91fc6.pdf",
+    "static/media/MyCV.pdf": "/portfolio/static/media/MyCV.b40d2436a7ef2e3eacd5.pdf",
     "static/media/C++.svg": "/portfolio/static/media/C++.edc3171eb3e27cad1e940d30b7316d2f.svg",
     "static/media/ENG.svg": "/portfolio/static/media/ENG.4599cf1179f6b6509c9698c66d1782c7.svg",
     "static/media/ScreenJobSimu.png": "/portfolio/static/media/ScreenJobSimu.a4713d0ebf14bdd19308.png",
@@ -30,11 +30,11 @@
     "static/media/trello.svg": "/portfolio/static/media/trello.4eaa2d02b5044685d3a4437845d5446b.svg",
     "static/media/vue-9.svg": "/portfolio/static/media/vue-9.f04dfe30a8ad8eb5c4e01aaf1163cb53.svg",
     "main.3f2cc8cd.css.map": "/portfolio/static/css/main.3f2cc8cd.css.map",
-    "main.4459ec64.js.map": "/portfolio/static/js/main.4459ec64.js.map",
+    "main.19fef96d.js.map": "/portfolio/static/js/main.19fef96d.js.map",
     "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f2cc8cd.css",
-    "static/js/main.4459ec64.js"
+    "static/js/main.19fef96d.js"
   ]
 }
